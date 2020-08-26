@@ -1,12 +1,4 @@
 {
-  "name": "front-mobile",
-  "displayName": "front-mobile",
-  "expo": {
-    "name": "front-mobile",
-    "slug": "front-mobile",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
-  }
+  "name": "TCC",
+  "displayName": "TCC"
 }
